@@ -10,7 +10,6 @@ import datetime
 import json
 from parse import *
 import subprocess
-from email import utils
 
 # Change things in this segment (cast_url is the address the webserver is visible at + folder where you put the podcast)
 channel = 'https://www.youtube.com/CHANNEL/videos'
